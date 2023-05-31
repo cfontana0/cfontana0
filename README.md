@@ -1,5 +1,5 @@
 Hi there 👋
 
-I possess a deep enthusiasm for the possibilities of technology to enhance privacy, remove intermediaries, and empower individuals. My background as a technical lead in startup environments, specifically in the creation of innovative products and services, highlights my proficiency in fostering innovation. 
+I am a highly passionate software engineer with over 10 years of experience in startups worldwide. As a technical lead, I excel at coordinating the development of new products and services, validating them in the market, and fostering innovation.
 
-I hold a great fascination for alternative social networks, blockchain initiatives, and digital identity, underscoring my dedication to emerging technologies that address privacy and individuals' control over their personal information. Furthermore, I am receptive to exploring AI projects due to the extensive potential they offer, while remaining cognizant of the importance of responsible development.
+I am particularly interested in projects related to alternative social networks, blockchain, and digital identity, as I am driven by the goal of enhancing privacy, eliminating intermediaries, and empowering individuals. Additionally, I am enthusiastic about exploring AI projects, recognizing their potential while acknowledging the responsibility that comes with their development.
