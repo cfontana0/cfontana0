@@ -1,6 +1,19 @@
 # 💫 About Me:
-Hey, hey, hey! So, you've stumbled upon a software engineer who's been at this game for over a decade now. Picture me rolling up my sleeves in the bustling world of startups from all corners of the globe - yeah, that's me in a nutshell. <br><br>As a whizz in the technical lead department, I've got a knack for gathering together all the puzzle pieces that make a new product or service. I'm your guy for testing the waters in the market, making sure our ideas aren't just awesome but also sell like hotcakes. And what's more? Innovation and I are BFFs.<br><br>Now, let's chat about my pet projects. I get my kicks from all things related to alternative social networks, blockchain, and digital identity. The goal? To crank up privacy, bid adieu to pesky middlemen, and hand the reins back to individuals. <br><br>Don't think my interests stop there! AI projects get my gears turning too. I'm all about harnessing their potential, but also understand that with great power comes great responsibility - so you can trust I won't be unleashing any rogue robots.<br><br>So, what are you waiting for? Let's get the conversation started!<br><br>Right now, I'm up to my ears in all sorts of blockchain and SaaS shenanigans - think of me as a master of juggling digital projects.<br><br>I'm on the lookout for like-minded folks to join forces on some AI and blockchain adventures. Got a project that needs a sprinkle of my expertise? Holler!<br><br>Building a business from scratch is my next quest, and I could sure use a wizard or two to guide me along the way. Is anyone up for a thrilling journey?<br><br>I'm diving headfirst into the oceans of Deep Learning, AI, and Blockchain. So, you might find me with my nose in a book or two, but I'm always ready to chat.<br><br>Feel free to pick my brain about LATAM & UK opportunities or if you're curious about the digital nomad life. I've got stories and advice to spare!<br><br>And hey, here's a fun little nugget about me: I've been a globe-trotter and workaholic rolled into one for over 2 years! Bet you can't beat my frequent flyer miles!<br><br>Remember, every question is a good question, so don't hesitate to reach out!
+Hey, hey, hey! So, you've stumbled upon a software engineer who's been at this game for over a decade now. Picture me rolling up my sleeves in the bustling world of startups from all corners of the globe - yeah, that's me in a nutshell.
 
+As a whizz in the technical lead department, I've got a knack for gathering together all the puzzle pieces that make a new product or service. I'm your guy for testing the waters in the market, and when it comes to innovation. We're BFFs.
+
+But wait, there's more! I get my kicks from all things related to alternative social networks, blockchain, and digital identity. The goal? To crank up privacy, bid adieu to pesky middlemen, and hand the reins back to individuals. 
+
+And let's not forget about my love for AI projects. I'm all about harnessing their potential, but I also understand that with great power comes great responsibility - so you can trust I won't be unleashing any rogue robots.
+
+Building a business from scratch is my next quest, and I could sure use a wizard or two to guide me along the way. Is anyone up for a thrilling journey?
+
+Feel free to pick my brain about LATAM & UK opportunities or if you're curious about the digital nomad life. I've got stories and advice to spare!
+
+And hey, here's a fun little nugget about me: I've been a globe-trotter and workaholic rolled into one for over 2 years! Bet you can't beat my frequent flyer miles!
+
+So, what are you waiting for? Let's get the conversation started! Remember, every question is a good question, so don't hesitate to reach out!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosfontana) 
