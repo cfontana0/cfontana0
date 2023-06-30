@@ -1,19 +1,14 @@
 # 💫 About Me:
-Hey, hey, hey! So, you've stumbled upon a software engineer who's been at this game for over a decade now. Picture me rolling up my sleeves in the bustling world of startups from all corners of the globe - yeah, that's me in a nutshell.
+Experienced and highly skilled software engineer with a solid track record in the industry, boasting over a decade of expertise. My focus lies in tech leadership, software architecture, and full-stack development, where I have consistently delivered exceptional software solutions and led successful cross-functional teams. Proficient in a wide range of cutting-edge technologies, including React, React Native, NodeJS, Python, and AWS, I possess a strong foundation in modern tech stacks. 
 
-As a whizz in the technical lead department, I've got a knack for gathering together all the puzzle pieces that make a new product or service. I'm your guy for testing the waters in the market, and when it comes to innovation. We're BFFs.
+As an avid learner, I stay at the forefront of emerging trends and continuously enhance my skills to ensure that I bring the latest tools and techniques to my work. Committed to surpassing client expectations, I take pride in delivering innovative and reliable software solutions that drive business growth.
 
-But wait, there's more! I get my kicks from all things related to alternative social networks, blockchain, and digital identity. The goal? To crank up privacy, bid adieu to pesky middlemen, and hand the reins back to individuals. 
+I have a particular interest in projects related to alternative social networks, blockchain, and digital identity. Empowering individuals, enhancing privacy, and eliminating intermediaries are core drivers behind my passion for these areas. Additionally, I am enthusiastic about exploring AI projects and harnessing their potential while upholding a strong sense of responsibility to align with human values and mitigate any potential negative consequences for society.
 
-And let's not forget about my love for AI projects. I'm all about harnessing their potential, but I also understand that with great power comes great responsibility - so you can trust I won't be unleashing any rogue robots.
+Building businesses from scratch is a challenge I eagerly embrace, and I am always seeking opportunities to collaborate with like-minded professionals who can guide and support me on this thrilling journey. Whether discussing opportunities in LATAM, the UK or sharing insights on the digital nomad lifestyle, I am ready to lend my expertise and share stories and advice from my extensive experiences.
 
-Building a business from scratch is my next quest, and I could sure use a wizard or two to guide me along the way. Is anyone up for a thrilling journey?
+Throughout my career, I have embraced a global mindset and combined work with a love for travel. Over the past two years, I have embarked on various globe-trotting adventures while maintaining a dedicated work ethic. With a wealth of frequent flyer miles under my belt, I am eager to bring my diverse experiences and perspectives to any new challenge.
 
-Feel free to pick my brain about LATAM & UK opportunities or if you're curious about the digital nomad life. I've got stories and advice to spare!
-
-And hey, here's a fun little nugget about me: I've been a globe-trotter and workaholic rolled into one for over 2 years! Bet you can't beat my frequent flyer miles!
-
-So, what are you waiting for? Let's get the conversation started! Remember, every question is a good question, so don't hesitate to reach out!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosfontana) 
